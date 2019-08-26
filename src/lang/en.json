@@ -1,0 +1,35 @@
+{
+	"title": "FullMoonRunning",
+	"description": "A movement that every Full Moon will connect runners around the world.",
+    "formTitle": "Join the Movement",
+    "formDescription": "your FullMoonRunner Bib Number",
+    "get": "Get",
+    "yours": "There isn't other like it in the world and it's yours forever.",
+    "agree": {
+    	"text": "By clicking, I confirm that I've read and understood the current {privacy} and that I agree",
+    	"terms": "Terms of Use",
+    	"privacy": "Privacy Policy & Terms of Use"
+    },
+    "mainCTA": "Join with Mail",
+    "googleBTN": "Join with Google",
+    "facebookBTN": "Join with Facebook",
+    "nextMoon": "Next Full Moon",
+    "nextMoonDate": "May 18th",
+    "success": {
+    	"title": "Contratulations, you are a FullMoonRunner!",
+    	"text": "Before the next full moon, you will receive your FullMoonRunner Bib Number in your inbox.",
+    	"share": "Share in",
+        "follow": "Follow us"
+    },
+    "errors": {
+    	"mustAgree": "You must agree to continue!",
+    	"emailRequired": "Email is required",
+    	"emailInvalid": "Email must be valid",
+    	"agree": "You have to agree the Terms of Service",
+    	"errorGoogle": "There have been an error with Google. Please, try with other method.",
+    	"errorFacebook": "There have been an error with Facebook. Please, try with other method."
+    },
+    "cop": "or",
+    "closeBTN": "Close",
+    "promo": "Coming Soon: the official app and merchandising of the FullMoonRunning movement."
+}

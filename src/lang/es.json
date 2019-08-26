@@ -1,0 +1,35 @@
+{
+	"title": "FullMoonRunning",
+	"description": "El movimiento que conecta a runners de todo el mundo cada luna llena.",
+    "formTitle": "Únete al movimiento",
+    "formDescription": "tu dorsal FullMoonRunner",
+    "get": "Consigue",
+    "yours": "Único en el mundo y tuyo para siempre",
+    "agree": {
+    	"text": "Al hacer clic, confirmo que he leído y entendido la {privacy} y estoy de acuerdo",
+    	"terms": "Términos de Uso",
+    	"privacy": "Política de Privacidad y Términos de Uso"
+    },
+    "mainCTA": "Unirme con mail",
+    "googleBTN": "Unirme con Google",
+    "facebookBTN": "Unirme con Facebook",
+    "nextMoon": "Próxima luna llena",
+    "nextMoonDate": "18 de mayo",
+    "success": {
+    	"title": "¡Enhorabuena, ya eres FullMoonRunner!",
+    	"text": "Antes de la proxima luna llena, recibirás en tu email tu dorsal FullMoonRunner.",
+        "share": "Compartir en",
+    	"follow": "Síguenos"
+    },
+    "errors": {
+    	"mustAgree": "Tienes que aceptar para continuar",
+    	"emailRequired": "El email es obligatorio",
+    	"emailInvalid": "El email tiene que ser válido",
+    	"agree": "Tienes que aceptar los Términos de Uso",
+    	"errorGoogle": "Ha habido un error con Google. Prueba con otro método.",
+    	"errorFacebook": "Ha habido un error con Facebook. Prueba con otro método."
+    },
+    "cop": "o",
+    "closeBTN": "Cerrar",
+    "promo": "Y muy pronto tendrás disponible la app y la camiseta del movimiento FullMoonRunning."
+}
